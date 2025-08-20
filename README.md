@@ -42,7 +42,7 @@ For best results, ensure your Power BI version is up to date (e.g., August 2025 
 
 ## Dashboard Preview
 
-![Dashboard Preview](/Users/sathwiknomula/Desktop/Nomula\'s\ Dashboard.png)
+![Dashboard Preview](Nomula'sDashboard.png)
 
 *Sample dashboard showing key visuals like Condition by Total Cost, Year of Admission Trends, Readmission by Gender, and more.*
 
