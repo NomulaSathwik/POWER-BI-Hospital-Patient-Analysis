@@ -1,4 +1,4 @@
-# Power BI Hospital Patient Analytics Dashboard
+# Nomula's Hospital Patient Analytics Dashboard
 
 ## Project Overview
 
