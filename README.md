@@ -42,7 +42,7 @@ For best results, ensure your Power BI version is up to date (e.g., August 2025 
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard.jpg)
+![Dashboard Preview](/Users/sathwiknomula/Desktop/Nomula\'s\ Dashboard.png)
 
 *Sample dashboard showing key visuals like Condition by Total Cost, Year of Admission Trends, Readmission by Gender, and more.*
 
@@ -55,7 +55,7 @@ For best results, ensure your Power BI version is up to date (e.g., August 2025 
 For full details, explore the PBIX file.
 
 ## Credits
-- Created by [Nomula Sathwik/Username] as part of a hospital patient data project.
+- Created by [Nomula Sathwik] as part of a hospital patient data project.
 - Inspired by standard Power BI best practices and healthcare analytics templates.
 - Dataset: Synthetic/generated for this project.
 
